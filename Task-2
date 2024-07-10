@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCHITECTURE</title>
+    
+</head>
+<body>
+    <h1>MK ARCHITECTURE</h1>
+      <img src="https://media.designcafe.com/wp-content/uploads/2019/12/09102702/modern-living-room-design-with-tv-unit-designed-with-storage.jpg" height="500px" width="700px">
+      <p><b>AIn Western architecture, a living room, also called a lounge room (Australian English[1]), lounge (British English[2]), sitting room (British English[3]), or drawing room, is a room for relaxing and socializing in a residential house or apartment. Such a room is sometimes called a front room when it is near the main entrance at the front of the house. In large, formal homes, a sitting room is often a small private living area adjacent to a bedroom, such as the Queens' Sitting Room and the Lincoln Sitting Room of the White House.[4]
+
+        In the late 19th or early 20th century, Edward Bok advocated using the term living room for the room then commonly called a parlo[u]r or drawing room, and is sometimes erroneously credited with inventing the term. It is now a term used more frequently when referring to a space to relax and unwind within a household. Within different parts of the world, living rooms are designed differently and evolving, but all share the same purpose, to gather users in a comfortable space.<b></p>
+    </body>
+    <style>
+
+html{
+    background-color: rgb(243, 247, 242);
+}
+
+h1 {
+    color: rgb(1, 1, 15);
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+    border: 2px solid rgb(5, 5, 5);
+    padding: 30px;
+    margin: 50px;
+    background-color: rgb(246, 223, 14);
+    color: white;
+    position: fixed;
+    width: 88.3%;
+}
+p{
+      position: relative;
+      left: 700px;
+      display: block;
+      bottom: 100px;
+      text-align: justify;
+      letter-spacing: 0.2mm;
+      line-height: 7mm;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 11.5;
+      
+    }
+  img{
+    position: relative;
+    top: 250px;
+    
+  }
+
+  body{
+    background-color: rgb(241, 247, 181);
+    
+  }
+    </style>
+</html>
