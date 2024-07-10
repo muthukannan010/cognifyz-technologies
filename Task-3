@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCHITECTURE</title>
+    
+    
+</head>
+<body>
+    <div class="container">
+        <h1>MK ARCHITECTURE</h1>
+        <img src="https://media.designcafe.com/wp-content/uploads/2019/12/09102702/modern-living-room-design-with-tv-unit-designed-with-storage.jpg" alt="Zoo Image">
+        <p><b>In Western architecture, a living room, also called a lounge room (Australian English[1]), lounge (British English[2]), sitting room (British English[3]), or drawing room, is a room for relaxing and socializing in a residential house or apartment. Such a room is sometimes called a front room when it is near the main entrance at the front of the house. In large, formal homes, a sitting room is often a small private living area adjacent to a bedroom, such as the Queens' Sitting Room and the Lincoln Sitting Room of the White House.[4]
+
+            In the late 19th or early 20th century, Edward Bok advocated using the term living room for the room then commonly called a parlo[u]r or drawing room, and is sometimes erroneously credited with inventing the term. It is now a term used more frequently when referring to a space to relax and unwind within a household. Within different parts of the world, living rooms are designed differently and evolving, but all share the same purpose, to gather users in a comfortable space.</b></p>
+    </div>
+</body>
+</html>
+
+<style>
+
+
+body {
+    background-color: rgb(186, 199, 109);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: rgb(213, 242, 244);
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    border: 2px solid rgb(14, 14, 14);
+    padding: 30px;
+    margin: 50px auto;
+    background-color: rgb(192, 202, 11);
+    width: 90%;
+    box-sizing: border-box;
+}
+
+p {
+    text-align: justify;
+    letter-spacing: 0.2mm;
+    line-height: 1.6;
+    font-size: 1em;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+@media (max-width: 1200px) {
+    h1 {
+        font-size: 2.5em;
+        padding: 25px;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 992px) {
+    h1 {
+        font-size: 2em;
+        padding: 20px;
+        margin: 30px auto;
+    }
+
+    p {
+        font-size: 0.85em;
+        margin: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.8em;
+        padding: 15px;
+        margin: 20px auto;
+    }
+
+    p {
+        font-size: 0.8em;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 1.5em;
+        padding: 10px;
+        margin: 10px auto;
+    }
+
+    p {
+        font-size: 0.75em;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 400px) {
+    h1 {
+        font-size: 1.2em;
+        padding: 5px;
+        margin: 5px auto;
+        width: 95%;
+    }
+
+    p {
+        font-size: 0.7em;
+        margin: 5px;
+    }
+}  
+</style>
